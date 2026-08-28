@@ -1,32 +1,41 @@
 # Loredana Salutari — Personal Professional Archive
 
-This repository contains the source files for the personal website of **Loredana Salutari**.
+This repository contains the Markdown source for the personal professional
+website of **Loredana Salutari**.
 
-The website brings together selected aspects of Loredana's professional journey, including more than 25 years of experience in IT and organizational environments, her work in life coaching and professional change, and a self-paced course developed during that period.
+The site documents selected parts of Loredana's professional journey: more than
+25 years in IT and organizational environments, her coaching perspective on
+professional change, and a self-guided course created during that journey.
 
-## About the website
+## Published website
 
-The site is a lightweight, static HTML/CSS website. It has no WordPress installation, database, plugins, or server-side dependencies.
+The website is published with **GitHub Pages** and generated automatically by
+**Jekyll**. The written content is maintained in Markdown; no hand-written HTML
+or CSS is required.
 
-It is hosted using **GitHub Pages**.
+[Visit the published website](https://loredanasalutari.github.io/coaching/)
 
-## Content
+## Content structure
 
-The website includes:
+- `index.md` — introduction, current status, and navigation
+- `about.md` — professional background and journey from technology to coaching
+- `coaching.md` — coaching focus and approach
+- `course.md` — self-guided course information
+- `_config.yml` — site title, description, Markdown settings, and visual theme
 
-* Professional background and experience
-* Reflections on work, organizations, professional identity, and change
-* An overview of Loredana's former coaching work through Viauki
-* Information about the course *Redefine Your Professional Life: From Misalignment to Purpose*
-* A link to Loredana's LinkedIn profile
+## Editing the website
 
-## Status
+1. Open the relevant `.md` file on GitHub.
+2. Select the pencil icon to edit it.
+3. Use the **Preview** tab to review the Markdown.
+4. Commit the change to the `main` branch.
 
-This is a personal professional archive. Viauki is no longer being developed as a structured coaching practice, although Loredana remains open to being contacted regarding her coaching experience or a possible conversation.
+GitHub Pages rebuilds the published site automatically after a commit.
 
-## Files
+## Contact
 
-* `index.html` — website content and structure
-* `style.css` — visual design and responsive layout
+Professional enquiries are handled through
+[LinkedIn](https://www.linkedin.com/in/loredanasalutari/). No email address or
+contact form is published on the website.
 
 © Loredana Salutari
